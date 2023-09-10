@@ -1,17 +1,17 @@
 # Curso Data Science Fundación YPF + Ingenias
 
-##Proyecto:## 
+## Proyecto: 
 EDA para el dataset de Energías Renovables en Argentina y su contribución al sistema eléctrico de todo el país.
 
-###Origen del Dataset:###
+### Origen del Dataset:
 El dataset se descargó de la página de CAMMESA (Compañía Administradora del Mercado Mayorista Eléctrico Sociedad Anónima). 
 
-###Descripción del dataset :###
+### Descripción del dataset:
 Este dataset contiene la información de la energía generada por fuentes de Energías Renovables y su contribución al sistema eléctrico de Argentina. 
 La Base de Datos es de paso mensual, desde enero 2011 hasta junio de 2023, conteniendo los siguientes campos con una cantidad total de 15999 registros. 
 
 
-**Diccionario de variables:**
+#### **Diccionario de variables:**
 |**Feature**|**Descripción**|
 |-----------|---------------|
 
