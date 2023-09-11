@@ -3,6 +3,9 @@
 ## Proyecto: 
 EDA para el dataset de Energías Renovables en Argentina y su contribución al sistema eléctrico de todo el país.
 
+### Objetivo del proyecto:
+Predecir la cantidad de energía que generaran las fuentes de energías renovables en los próximos años(5) y su contribución para satisfacer la demanda de energía eléctrica en el país
+
 ### Origen del Dataset:
 El dataset se descargó de la página de CAMMESA (Compañía Administradora del Mercado Mayorista Eléctrico Sociedad Anónima). 
 
@@ -14,15 +17,14 @@ La Base de Datos es de paso mensual, desde enero 2011 hasta junio de 2023, conte
 #### **Diccionario de variables:**
 |**Feature**|**Descripción**|
 |-----------|---------------|
-
-a) Central / máquina por región del país
-
-b) Tipo de fuente de energía renovable (Hidro < 50 MW; Eólico, Solar, Biomasa, Biodiesel)
-
-c)Provincia
-
-d) Mes/Año
-
-e) Energía Generada (GWh)
-
-Objetivo del proyecto: predecir la cantidad de energía que generaran las fuentes de energías renovables en los próximos años(5) y su contribución para satisfacer la demanda de energía eléctrica en el país
+|anio       | Año           |
+|central    | Siglas del nombre de la central energética|
+|central_des| Nombre completo de la central energética|
+|maquina    | Nombre de la máquina utilizada en la central|
+|fuente_de  | Tipo de guente de energía renovable: biodisel, hidrúlico, eólico, solar, biomasa|
+|region     | Región del país donde se encuentra la central|
+|energia_gen| Energía Generada en GWh por la central en el mes y año correspondiente|
+|nueva_gen| |
+|prov       | Provincia donde se ubica la central|
+|mes        | Mes del año abreviado a las primeras tres letras|
+      
