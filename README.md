@@ -1,11 +1,11 @@
 # Curso Data Science Fundación YPF + Ingenias
 
 ### Integrantes: 
--Eugenia Aciar 
--Eileen Corbalán 
--Dolores Corva 
--Moira Ossola 
--Evelin Paez 
+- Eugenia Aciar 
+- Eileen Corbalán 
+- Dolores Corva 
+- Moira Ossola 
+- Evelin Paez 
 
 ## Proyecto: 
 EDA para el dataset de Energías Renovables en Argentina y su contribución al sistema eléctrico de todo el país.
