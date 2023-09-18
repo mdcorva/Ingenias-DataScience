@@ -1,7 +1,15 @@
 # Curso Data Science Fundación YPF + Ingenias
 
+### Integrantes: 
+Eugenia Aciar
+Eileen Corbalán
+Dolores Corva
+Moira Ossola
+Evelin Paez
+
 ## Proyecto: 
 EDA para el dataset de Energías Renovables en Argentina y su contribución al sistema eléctrico de todo el país.
+
 
 ### Objetivo del proyecto:
 Predecir la cantidad de energía que generaran las fuentes de energías renovables en los próximos años(5) y su contribución para satisfacer la demanda de energía eléctrica en el país
