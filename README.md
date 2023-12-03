@@ -1,4 +1,4 @@
-# Curso Data Science Fundación YPF + Ingenias
+# Curso Data Science Ingenias+ ##Fundación YPF + Media Chicas
 
 ### Integrantes: 
 - Eugenia Aciar 
@@ -31,7 +31,7 @@ La Base de Datos es de paso mensual, desde enero 2011 hasta junio de 2023, conte
 |prov       | Provincia donde se ubica la central|
 |mes        | Mes del año abreviado a las primeras tres letras|
       
-##Desarrollo
+## Desarrollo
 Se comenzó con un exhaustivo Análisis Exploratorio de los datos (EDA) que nos permitió responder preguntas como: ¿Cuál es la cantidad de datos que tenemos por año? ¿Cuánta energía de fuentes renovables se produjo por año?, entre otras. 
 
 De todas formas, nuestra pregunta principal es: **¿Cuánta energía eléctrica se generará a partir de cada fuente de energía renovable?**. Para responderla utilizamos aprendizaje supervisado.  
