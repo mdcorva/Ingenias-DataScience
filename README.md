@@ -1,5 +1,4 @@
-# Curso Data Science Ingenias+
-## Fundación YPF + Media Chicas 
+# Curso Data Science - Ingenias+ - Fundación YPF + Media Chicas 
 
 ### Integrantes: 
 - Eugenia Aciar 
