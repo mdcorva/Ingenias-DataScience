@@ -6,10 +6,10 @@
 
 
 ### Integrantes: 
-- Eugenia Aciar 
-- Eileen Corbalán 
-- Dolores Corva 
-- Julia Panei
+- Eugenia Aciar [**LinkedIn**](https://www.linkedin.com/in/eugenia-aciar/)
+- Eileen Corbalán [**LinkedIn**](https://www.linkedin.com/in/eileen-corbalan/)
+- Dolores Corva [**LinkedIn**](https://www.linkedin.com/in/m-dolores-corva/)
+- Julia Panei [**LinkedIn**](https://www.linkedin.com/in/julia-panei/)
 - Evelin Paez 
 
 ### Objetivo del proyecto :computer: :
