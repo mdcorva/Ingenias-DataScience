@@ -4,15 +4,11 @@
 - Eugenia Aciar 
 - Eileen Corbalán 
 - Dolores Corva 
-- Moira Ossola 
+- Julia Panei
 - Evelin Paez 
 
-## Proyecto: 
-EDA para el dataset de Energías Renovables en Argentina y su contribución al sistema eléctrico de todo el país.
-
-
 ### Objetivo del proyecto:
-Predecir la cantidad de energía que generaran las fuentes de energías renovables en los próximos años(5) y su contribución para satisfacer la demanda de energía eléctrica en el país
+Predecir la contribución de las fuentes de energías renovables a la satisfacción de la demanda eléctrica del país. 
 
 ### Origen del Dataset:
 El dataset se descargó de la página de CAMMESA (Compañía Administradora del Mercado Mayorista Eléctrico Sociedad Anónima). 
@@ -20,7 +16,6 @@ El dataset se descargó de la página de CAMMESA (Compañía Administradora del 
 ### Descripción del dataset:
 Este dataset contiene la información de la energía generada por fuentes de Energías Renovables y su contribución al sistema eléctrico de Argentina. 
 La Base de Datos es de paso mensual, desde enero 2011 hasta junio de 2023, conteniendo los siguientes campos con una cantidad total de 15999 registros. 
-
 
 #### **Diccionario de variables:**
 |**Feature**|**Descripción**|
@@ -36,3 +31,10 @@ La Base de Datos es de paso mensual, desde enero 2011 hasta junio de 2023, conte
 |prov       | Provincia donde se ubica la central|
 |mes        | Mes del año abreviado a las primeras tres letras|
       
+##Desarrollo
+Se comenzó con un exhaustivo Análisis Exploratorio de los datos (EDA) que nos permitió responder preguntas como: ¿Cuál es la cantidad de datos que tenemos por año? ¿Cuánta energía de fuentes renovables se produjo por año?, entre otras. 
+
+De todas formas, nuestra pregunta principal es: **¿Cuánta energía eléctrica se generará a partir de cada fuente de energía renovable?**. Para responderla utilizamos aprendizaje supervisado.  
+Como la variable que queremos predecir , es una variable numérica continua decidimos probar con distintos MODELOS DE REGRESIÓN. Para esto, en primer lugar se crearon distintos datasets correspondientes a cada fuente de energía  y luego se convirtieron todas las variables categóricas a variables numéricas. Estos modelos de regresión fueron: Regresión Lineal, RandomForest y Support Vector Machine. 
+
+Finalmente podemos concluir que con el dataset elegido, con el EDA y con los modelos elegidos pudimos correr un modelo completo en particular para la energía **solar** y podría considerarse que los resultados no fueron malos y sí responden a nuestra pregunta principal. 
